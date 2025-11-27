@@ -25,7 +25,7 @@ Supporting material for [Academy Course DAT31050](https://www.openriskacademy.co
 <tr>
     <td><b>Technical</b></td>
     <td></td>
-    <td></td>
+    <td>DAT31050</td>
     <td></td>
 </tr>
 </tbody>
